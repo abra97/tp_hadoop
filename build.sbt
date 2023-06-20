@@ -4,10 +4,10 @@ ThisBuild / scalaVersion := "2.12.15"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "tp_hadoop"
+    name := "TP_Hadoop"
   )
-val sparkVersion = "3.2.4"
+val sparkVersion = "3.3.2"
 libraryDependencies ++= Seq(
-
   "org.apache.spark" %% "spark-core" % sparkVersion,
-  "org.apache.spark" %% "spark-sql" % sparkVersion)
+  "org.apache.spark" %% "spark-sql" % sparkVersion
+)
