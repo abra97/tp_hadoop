@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tp_hadoop.iml" filepath="$PROJECT_DIR$/.idea/modules/tp_hadoop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tp_hadoop-build.iml" filepath="$PROJECT_DIR$/.idea/modules/tp_hadoop-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TP_Hadoop.iml" filepath="$PROJECT_DIR$/.idea/modules/TP_Hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TP_Hadoop-build.iml" filepath="$PROJECT_DIR$/.idea/modules/TP_Hadoop-build.iml" />
     </modules>
   </component>
 </project>
